@@ -88,6 +88,6 @@ Requirements:
 
 ## ⏱️ Time Limit
 
-**2 working days** from the time you receive this assignment.
+**2 working days** from the time you started implementation of this assignment. Unlimited learning/research time.
 
 Good luck!
